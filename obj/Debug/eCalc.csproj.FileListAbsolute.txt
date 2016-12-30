@@ -1,0 +1,6 @@
+C:\Users\gabe.tower\Documents\Visual Studio 2012\Projects\eCalc\bin\Debug\eCalc.exe.config
+C:\Users\gabe.tower\Documents\Visual Studio 2012\Projects\eCalc\bin\Debug\eCalc.exe
+C:\Users\gabe.tower\Documents\Visual Studio 2012\Projects\eCalc\bin\Debug\eCalc.pdb
+C:\Users\gabe.tower\Documents\Visual Studio 2012\Projects\eCalc\obj\Debug\eCalc.csprojResolveAssemblyReference.cache
+C:\Users\gabe.tower\Documents\Visual Studio 2012\Projects\eCalc\obj\Debug\eCalc.exe
+C:\Users\gabe.tower\Documents\Visual Studio 2012\Projects\eCalc\obj\Debug\eCalc.pdb
